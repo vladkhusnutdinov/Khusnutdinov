@@ -126,3 +126,12 @@ class InputConnect:
 
 if __name__ == '__main__':
     InputConnect()
+
+
+
+def print_hi(name):
+    print(f'Hi, {name}')
+
+
+if __name__ == '__main__':
+    print_hi('PyCharm')
